@@ -1,0 +1,21 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Окружение
+.venv/
+env/
+venv/
+ENV/
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Артефакты сборки и отчетов
+*.docx
+dist/
+build/
+*.egg-info/
